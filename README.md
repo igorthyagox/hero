@@ -1,10 +1,10 @@
-#Projeto Tour of Heroes
+# Projeto Tour of Heroes
 
-##Instalação
+## Instalação
 
 Para clonar o repositório, digite: git clone https://github.com/igorthyagox/hero
 
-##Execução
+## Execução
 
 Execute o comando npm install dentro do diretório client.
 
